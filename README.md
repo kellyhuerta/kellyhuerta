@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Kelly Huerta
 
-<!--
-**kellyhuerta/kellyhuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My primary coding language: Python
+- I'm currently working on my portfolio
+- I'm passionate for learning & exploring new Tech
+- I'm looking to collaborate on Open source projects
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Fun Facts:
+- I'm Venezuelan & Colombian 🇻🇪
+- I enjoy playing video games 🎮
+- I love to cook ethnic food 👩🏽‍🍳
+- My girlfriend, and I started a hobby of making Moss Art during the Pandemic. [@MossBossRVA](https://instagram.com/MossBossRVA)
