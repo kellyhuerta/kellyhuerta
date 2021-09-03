@@ -1,6 +1,4 @@
-# Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Kelly Huerta!
-
-# About me
+# Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Kelly Huerta
 
 ![alt text](https://github.com/kellyhuerta/kellyhuerta/blob/main/cover.png)
 
