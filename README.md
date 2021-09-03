@@ -1,6 +1,6 @@
 # Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Kelly Huerta
 
-![alt text](https://github.com/kellyhuerta/kellyhuerta/blob/main/cover.jpeg)
+![alt text](https://github.com/kellyhuerta/kellyhuerta/blob/main/cover.png)
 
 - My primary coding language: Python
 - I'm currently working on my portfolio
