@@ -1,5 +1,5 @@
 # Hola, I'm Kelly Huerta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-As a dedicated UX/UI designer, I blend technical skills with creative insights to craft memorable digital experiences.
+As a dedicated UX & Software Development student, I blend technical skills with creative insights to craft memorable digital experiences.
 
 ## About Me
 - 💼 Currently enhancing my portfolio with diverse web design projects.
